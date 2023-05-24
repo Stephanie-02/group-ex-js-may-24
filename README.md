@@ -24,6 +24,7 @@ Add an event listener to the Press Me button, which changes the text of the #tit
 Add an id to the first div of the CardComponent.
 Use a prop to set this id, called cardId.
 Add another button called Delete Me to the card component. When we click it, we will delete the card. Use the prop id of the first div we created earlier.
+Use .remove() on the html element.
 
 Display this CardComponent three times, and delete every one of them each time.
 
